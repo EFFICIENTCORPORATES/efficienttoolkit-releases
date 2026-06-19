@@ -1,5 +1,7 @@
 # EfficientToolKit
 
+## "Officially featured by ICAI under the CA PRACTO — Practice Tools Support Initiative"
+
 **One offline Windows app. 30+ tools. Zero data leakage.**
 
 EfficientToolKit is a **free, offline Windows desktop application** built for Chartered Accountants, tax consultants, and accounting professionals. It brings together 30+ productivity tools — File Management, Excel & CSV Processing, PDF Utilities, GST Tools, and GSTR Reconciliation — into a single, easy-to-use app.
